@@ -1,0 +1,27 @@
+*{
+    margin: 3px;
+    background: #95a177;
+    padding: 3px;
+}
+body{
+    margin-top: 10%;
+}
+div {
+    margin: 5%;
+    /* display: inline-block; */
+    margin: auto;
+    width: 30%;
+}
+button{
+    background-color: darkcyan;
+    font-size: medium;
+    color: azure;
+}
+input{
+    background-color: antiquewhite;
+    padding: 2px;
+
+}
+select{
+    background:antiquewhite;
+}
